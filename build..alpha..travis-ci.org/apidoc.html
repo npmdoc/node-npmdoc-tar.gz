@@ -61,12 +61,45 @@
 
     <li class="apidocModuleLi"><a href="#apidoc.module.tar.gz">module tar.gz</a><ol>
 
+        <li>
+
+            <a class="apidocElementLiA" href="#apidoc.element.tar.gz.gz">
+            function <span class="apidocSignatureSpan">tar.</span>gz
+            <span class="apidocSignatureSpan">(zoptions, toptions)</span>
+            </a>
+
+        </li>
+
     </ol></li>
 
 </ol></div>
 
 <div class="apidocSectionDiv">
 <h1><a href="#apidoc.module.tar.gz" id="apidoc.module.tar.gz">module tar.gz</a></h1>
+
+
+    <h2>
+        <a href="#apidoc.element.tar.gz.gz" id="apidoc.element.tar.gz.gz">
+        function <span class="apidocSignatureSpan">tar.</span>gz
+        <span class="apidocSignatureSpan">(zoptions, toptions)</span>
+        </a>
+    </h2>
+    <ul>
+    <li>description and source-code<pre class="apidocCodePre">gz = function (zoptions, toptions) {
+
+  // Chech if it&#x27;s a new instance, otherwise initiate a new one
+  if (!(this instanceof TarGz))
+    return new TarGz(zoptions, toptions);
+
+  // Clone our options to avoid reference errors
+  this._options = {
+    zlib: zoptions ? mout.lang.deepClone(zoptions) : {},
+    tar: toptions ? mout.lang.deepClone(toptions) : {}
+  };
+}</pre></li>
+    <li>example usage<pre class="apidocCodePre">n/a</pre></li>
+    </ul>
+
 
 </div>
 
