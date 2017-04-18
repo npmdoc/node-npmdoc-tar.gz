@@ -1,9 +1,14 @@
-# api documentation for  [tar.gz (v1.0.5)](https://github.com/alanhoff/node-tar.gz#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-tar.gz.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-tar.gz) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-tar.gz.svg)](https://travis-ci.org/npmdoc/node-npmdoc-tar.gz)
+# npmdoc-tar.gz
+
+#### api documentation for  [tar.gz (v1.0.5)](https://github.com/alanhoff/node-tar.gz#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-tar.gz.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-tar.gz) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-tar.gz.svg)](https://travis-ci.org/npmdoc/node-npmdoc-tar.gz)
+
 #### Pure javascript tarball tools for Node.js
 
-[![NPM](https://nodei.co/npm/tar.gz.png?downloads=true)](https://www.npmjs.com/package/tar.gz)
+[![NPM](https://nodei.co/npm/tar.gz.png?downloads=true&downloadRank=true&stars=true)](https://www.npmjs.com/package/tar.gz)
 
-[![apidoc](https://npmdoc.github.io/node-npmdoc-tar.gz/build/screenCapture.buildNpmdoc.browser._2Fhome_2Ftravis_2Fbuild_2Fnpmdoc_2Fnode-npmdoc-tar.gz_2Ftmp_2Fbuild_2Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-tar.gz/build/apidoc.html)
+- [https://npmdoc.github.io/node-npmdoc-tar.gz/build/apidoc.html](https://npmdoc.github.io/node-npmdoc-tar.gz/build/apidoc.html)
+
+[![apidoc](https://npmdoc.github.io/node-npmdoc-tar.gz/build/screenCapture.buildCi.browser.%252Ftmp%252Fbuild%252Fapidoc.html.png)](https://npmdoc.github.io/node-npmdoc-tar.gz/build/apidoc.html)
 
 ![npmPackageListing](https://npmdoc.github.io/node-npmdoc-tar.gz/build/screenCapture.npmPackageListing.svg)
 
@@ -17,8 +22,7 @@
 
 {
     "author": {
-        "name": "Alan Hoffmeister",
-        "email": "alanhoffmeister@gmail.com"
+        "name": "Alan Hoffmeister"
     },
     "bin": {
         "targz": "bin/targz"
@@ -66,13 +70,11 @@
     "main": "index.js",
     "maintainers": [
         {
-            "name": "alanhoff",
-            "email": "alanhoffmeister@gmail.com"
+            "name": "alanhoff"
         }
     ],
     "name": "tar.gz",
     "optionalDependencies": {},
-    "readme": "ERROR: No README data found!",
     "repository": {
         "type": "git",
         "url": "git+https://github.com/alanhoff/node-tar.gz.git"
@@ -84,16 +86,6 @@
     "version": "1.0.5"
 }
 ```
-
-
-
-# <a name="apidoc.tableOfContents"></a>[table of contents](#apidoc.tableOfContents)
-
-#### [module tar.gz](#apidoc.module.tar.gz)
-
-
-
-# <a name="apidoc.module.tar.gz"></a>[module tar.gz](#apidoc.module.tar.gz)
 
 
 
