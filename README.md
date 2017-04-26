@@ -1,6 +1,6 @@
 # npmdoc-tar.gz
 
-#### api documentation for  [tar.gz (v1.0.5)](https://github.com/alanhoff/node-tar.gz#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-tar.gz.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-tar.gz) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-tar.gz.svg)](https://travis-ci.org/npmdoc/node-npmdoc-tar.gz)
+#### basic api documentation for  [tar.gz (v1.0.5)](https://github.com/alanhoff/node-tar.gz#readme)  [![npm package](https://img.shields.io/npm/v/npmdoc-tar.gz.svg?style=flat-square)](https://www.npmjs.org/package/npmdoc-tar.gz) [![travis-ci.org build-status](https://api.travis-ci.org/npmdoc/node-npmdoc-tar.gz.svg)](https://travis-ci.org/npmdoc/node-npmdoc-tar.gz)
 
 #### Pure javascript tarball tools for Node.js
 
